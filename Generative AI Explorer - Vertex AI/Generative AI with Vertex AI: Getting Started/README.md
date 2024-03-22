@@ -23,7 +23,7 @@ In this lab, you will learn how to get started with AI Studio and the Vertex AI 
 
   
 ## About
-Hi there! I'm Long Nguyen Phi, and I'm excited to share with you what I've learned and accomplished through this lab. Join me as we delve into the fascinating world of prompt design and text generation with the Vertex AI PaLM API.
+Hi there! I'm Long Nguyen, and I'm excited to share with you what I've learned and accomplished through this lab. Join me as we delve into the fascinating world of prompt design and text generation with the Vertex AI PaLM API.
 
 Feel free to explore the provided content and reach out if you have any questions or feedback. Happy learning!
 
