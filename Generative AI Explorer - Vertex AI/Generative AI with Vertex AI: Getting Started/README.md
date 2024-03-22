@@ -13,9 +13,10 @@ In this lab, you will learn how to get started with AI Studio and the Vertex AI 
 How to use the Generative AI:
 
   -Creating different types of prompts and getting responses in a jupyter notebook
-  -How to use the Vertex AI PaLM API & Python SDK:
 
-Background on LLMs and the PaLM API
+How to use the Vertex AI PaLM API & Python SDK:
+
+  -Background on LLMs and the PaLM API
   -Text generation examples
   -Exploring various model parameters involved in text generation
   -Chat model examples
