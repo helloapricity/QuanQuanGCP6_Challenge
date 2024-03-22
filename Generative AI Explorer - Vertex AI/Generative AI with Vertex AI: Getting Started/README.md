@@ -17,10 +17,15 @@ How to use the Generative AI:
 How to use the Vertex AI PaLM API & Python SDK:
 
   -Background on LLMs and the PaLM API
+  
   -Text generation examples
+  
   -Exploring various model parameters involved in text generation
+  
   -Chat model examples
+  
   -Code completion model examples
+  
   -Embedding model examples
 
 ## About
